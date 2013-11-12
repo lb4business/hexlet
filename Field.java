@@ -1,7 +1,7 @@
 package com.hexlet;
 
 public class Field {
-	
+	//test comment
 	private static final char DEFAULT_CELL_VALUE = ' ';
 	
 	private static final int DEFAULT_FIELD_SIZE = 3;
